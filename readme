@@ -1,0 +1,15 @@
+## aqui inicia niestro repositorio
+
+git init
+
+crear archivo
+
+guardar archivo
+
+git add .
+
+git commit -m ""
+
+git remote add origin https://github.com/Steffanyscode/sitio-web.git
+git branch -M main
+git push -u origin main
